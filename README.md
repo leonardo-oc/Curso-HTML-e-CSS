@@ -7,7 +7,7 @@ _________
 ### Instrutor: [Gustavo Guanabara]
 
 # learning
-- [x] ==//==
+- [x] =//=
 
 
 
