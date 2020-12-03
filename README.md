@@ -7,8 +7,7 @@ _________
 ### Instrutor: [Gustavo Guanabara]
 
 # learning
-- [x] =//=
-
+- [x] =//=<3
 
 
 <h2 align="center"> 📷 learning:</h2>
