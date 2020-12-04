@@ -8,6 +8,7 @@ _________
 
 # learning
 - [x] Seu primeiro código HTML
+- [x] Parágrafos e quebras de linhas
 
 
 <h2 align="center"> 📷 learning:</h2>
