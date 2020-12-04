@@ -7,6 +7,8 @@ _________
 ### Instrutor: [Gustavo Guanabara]
 
 # learning
+
+### Módulo 1
 - [x] Seu primeiro código HTML
 - [x] Parágrafos e quebras de linhas
 
