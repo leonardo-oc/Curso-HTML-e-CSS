@@ -11,6 +11,7 @@ _________
 ### Módulo 1
 - [x] Seu primeiro código HTML
 - [x] Parágrafos e quebras de linhas
+- [x] Símbolos e Emoji no seu site
 
 
 <h2 align="center"> 📷 learning:</h2>
