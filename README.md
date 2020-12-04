@@ -7,7 +7,7 @@ _________
 ### Instrutor: [Gustavo Guanabara]
 
 # learning
-- [x] =//=<3
+- [x] Seu primeiro código HTML
 
 
 <h2 align="center"> 📷 learning:</h2>
